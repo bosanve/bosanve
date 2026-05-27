@@ -18,6 +18,6 @@ La inspiración visual y musical también forma parte de cómo desarrollo mis id
 
 # Redes
 
-* GitHub: [https://github.com/bosanve](https://github.com/bosanve)
+* GitHub: [Github](https://github.com/bosanve)
 * Discord: bosanve
-* Instagram: bosanve
+* Instagram: 
