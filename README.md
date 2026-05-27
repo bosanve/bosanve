@@ -15,6 +15,7 @@ La inspiración visual y musical también forma parte de cómo desarrollo mis id
 
 
 <img src="https://i.pinimg.com/webp/1200x/6b/72/b5/6b72b5cdc5dbde38f91aaaeb15623618.webp" width="100%">
+
 # Redes
 
 * GitHub: [https://github.com/bosanve](https://github.com/bosanve)
