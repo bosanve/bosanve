@@ -2,7 +2,6 @@
 
 Estudiante enfocado en desarrollo de software, arquitectura de sistemas y creación de proyectos con identidad propia. Me interesa construir soluciones organizadas, funcionales y bien estructuradas, especialmente en áreas de gestión comercial, administración y diseño de sistemas.
 
----
 
 # Perfil
 
@@ -14,9 +13,7 @@ Soy una persona relajada, atraída por las cosas simples, los detalles suaves y 
 
 La inspiración visual y musical también forma parte de cómo desarrollo mis ideas, especialmente estilos cálidos, calmados y con una identidad parecida a artistas como Laufey.
 
----
 
----
 <img src="https://i.pinimg.com/webp/1200x/6b/72/b5/6b72b5cdc5dbde38f91aaaeb15623618.webp" width="100%">
 # Redes
 
