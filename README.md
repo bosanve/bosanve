@@ -14,7 +14,7 @@ Soy una persona relajada, atraída por las cosas simples, los detalles suaves y 
 La inspiración visual y musical también forma parte de cómo desarrollo mis ideas, especialmente estilos cálidos, calmados y con una identidad parecida a artistas como Laufey.
 
 
-<img src="https://i.pinimg.com/1200x/4e/4c/f3/4e4cf33eb98597cbcfe588e9b67d078b.jpg" width="100%">
+<img src="https://i.pinimg.com/webp/1200x/cd/24/24/cd24243e21289859885188b5b2f78057.webp" width="100%">
 
 # Redes
 
