@@ -17,6 +17,7 @@ La inspiración visual y musical también forma parte de cómo desarrollo mis id
 ---
 
 ---
+<img src="images/banner.webp" width="100%">
 
 # Redes
 
