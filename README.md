@@ -26,6 +26,6 @@ La música, el diseño y las cosas simples forman parte de cómo desarrollo mis 
 
 ## Redes
 
-- [Spotify](https://open.spotify.com/user/31dyrfkzt5hswrb5labxjjz2s6ou)
-- Discord: bosanve
-- [Instagram](https://www.instagram.com/bosanve/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/user/31dyrfkzt5hswrb5labxjjz2s6ou)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/bosanve)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bosanve/)
