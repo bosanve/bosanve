@@ -15,7 +15,12 @@ La inspiración visual y musical también forma parte de cómo desarrollo mis id
 
 ‎♥ Pamela
 
+---
+
+
 <img src="https://i.pinimg.com/webp/1200x/cd/24/24/cd24243e21289859885188b5b2f78057.webp" width="100%">
+
+---
 
 # Redes
 
